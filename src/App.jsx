@@ -121,7 +121,7 @@ const App = () => {
           <button
             type="button"
             onClick={checkAccess}
-            className="bg-blue-600 hover:bg-blue-700 text-white font-semibold px-6 py-3 rounded-md shadow-md transition duration-200"
+            className=" cursor-pointer bg-blue-600 hover:bg-blue-700 text-white font-semibold px-6 py-3 rounded-md shadow-md transition duration-200"
           >
             Simulate Access
           </button>
